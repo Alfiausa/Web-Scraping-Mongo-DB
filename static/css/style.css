@@ -1,0 +1,21 @@
+#scrape_btn {
+    text-align: center;
+}
+.container-fluid {
+    background: rgb(216,216,216);
+    outline: .01px double black;
+    padding: 5%;
+}
+.data-box {
+    outline: .1px double black;
+    background: rgb(255,255,255);
+}
+
+figcaption.hemisphere_caption{
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
